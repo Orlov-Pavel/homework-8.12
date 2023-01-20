@@ -28,6 +28,8 @@ Merge request создан, сборка прошла успешно:
 ## Tester
 Контейнер запущен, запрос выполняется успешно:  
 ![tester-docker](./pictures/tester-docker.PNG)  
+Merge request одобрен и выполнен:  
+![tester-merge](./pictures/tester-merge.PNG)  
 Issue закрыта с соответствующим комментарием:  
 ![tester-issue](./pictures/tester-issue.PNG)
 
